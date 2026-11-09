@@ -1,0 +1,19 @@
+{
+  "name": "dsh-skills-panel",
+  "version": "0.1.0",
+  "description": "DSH 侧边栏 Skills 面板：浏览和搜索已安装的 Skill",
+  "type": "module",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "assets",
+    "cordis.patch.yml",
+    "README.md"
+  ],
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  },
+  "license": "MIT"
+}
