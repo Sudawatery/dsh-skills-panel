@@ -13,7 +13,17 @@ DSH（DeepSeek Harness）侧边栏 Skills 面板插件。在左侧边栏添加�
 
 ## 截图
 
-![侧边栏入口](https://aka.doubaocdn.com/s/G2R7YN5Vv0)
+<p align="center"><b>侧边栏入口</b></p>
+<p align="center"><img src="https://aka.doubaocdn.com/s/G2R7YN5Vv0" width="5000"></p>
+
+<p align="center"><b>弹出面板</b></p>
+<p align="center"><img src="https://aka.doubaocdn.com/s/w2F4Vcgl5f" width="350"></p>
+
+<p align="center"><b>颜色自定义</b></p>
+<p align="center"><img src="https://aka.doubaocdn.com/s/RqlaqWmXwS" width="350"></p>
+
+<p align="center"><b>设置面板</b></p>
+<p align="center"><img src="https://aka.doubaocdn.com/s/rhYA2HefCi" width="350"></p>
 
 ## 安装
 
