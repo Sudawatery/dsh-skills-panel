@@ -13,7 +13,7 @@ DSH（DeepSeek Harness）侧边栏 Skills 面板插件。在左侧边栏添加�
 
 ## 截图
 
-![侧边栏入口](https://aka.doubaocdn.com/s/Hbi3aLvUy8)
+![侧边栏入口](https://aka.doubaocdn.com/s/G2R7YN5Vv0)
 
 ## 安装
 
